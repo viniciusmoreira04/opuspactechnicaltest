@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opuspac.TechnicalTest.Appli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opuspac.TechnicalTest.Infrastructure", "Opuspac.TechnicalTest.Infrastructure\Opuspac.TechnicalTest.Infrastructure.csproj", "{9EE3E402-CD45-47CF-BE08-7E8D391B8770}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Opuspac.TechnicalTest.Web", "Opuspac.TechnicalTest.Web\opuspac.technicaltest.web.client\Opuspac.TechnicalTest.Web.esproj", "{CD799339-73B7-9025-4151-33D59B37FE45}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Opuspac.TechnicalTest.Web", "Opuspac.TechnicalTest.Web\Opuspac.TechnicalTest.Web.esproj", "{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,12 +35,12 @@ Global
 		{9EE3E402-CD45-47CF-BE08-7E8D391B8770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EE3E402-CD45-47CF-BE08-7E8D391B8770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EE3E402-CD45-47CF-BE08-7E8D391B8770}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CD799339-73B7-9025-4151-33D59B37FE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD799339-73B7-9025-4151-33D59B37FE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD799339-73B7-9025-4151-33D59B37FE45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{CD799339-73B7-9025-4151-33D59B37FE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD799339-73B7-9025-4151-33D59B37FE45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CD799339-73B7-9025-4151-33D59B37FE45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

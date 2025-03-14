@@ -3,19 +3,8 @@
   "WorkspaceRootPath": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.Server\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,18 +84,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\src\\components\\welcomeitem.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\src\\components\\welcomeitem.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\src\\components\\thewelcome.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\src\\components\\thewelcome.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD799339-73B7-9025-4151-33D59B37FE45}|Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\opuspac.technicaltest.web.client\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -153,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -161,92 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitattributes",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitattributes",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitattributes",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-14T17:21:10.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.editorconfig",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.editorconfig",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.editorconfig",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.editorconfig",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-14T17:21:08.968Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": ".gitignore",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitignore",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitignore",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitignore",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\.gitignore",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\.gitignore",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\.gitignore",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\.gitignore",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-14T17:17:05.306Z",
+              "WhenOpened": "2025-03-14T17:33:52.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.Server\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.Server\\WeatherForecast.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.Server\\WeatherForecast.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.Server\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T17:16:03.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "WelcomeItem.vue",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\WelcomeItem.vue",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\WelcomeItem.vue",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\WelcomeItem.vue",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\WelcomeItem.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-03-14T01:42:29.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TheWelcome.vue",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\TheWelcome.vue",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\TheWelcome.vue",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\TheWelcome.vue",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\TheWelcome.vue",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwCgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-03-14T01:41:12.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HelloWorld.vue",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\HelloWorld.vue",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\HelloWorld.vue",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\HelloWorld.vue",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\opuspac.technicaltest.web.client\\src\\components\\HelloWorld.vue",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwDEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-03-14T01:31:20.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\UserDTO.cs",
@@ -254,11 +159,12 @@
               "RelativeToolTip": "Opuspac.TechnicalTest.Application\\DTOs\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:43:54.493Z"
+              "WhenOpened": "2025-03-13T00:43:54.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 21,
               "Title": "UsersController.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs",
@@ -271,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 22,
               "Title": "ProductController.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\ProductController.cs",
@@ -283,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "OrderServiceRepository.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
@@ -295,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "IUserService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IUserService.cs",
@@ -308,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Services\\UserService.cs",
@@ -320,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Domain\\Product.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Domain\\Product.cs",
@@ -332,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "IPostgreConnection.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IPostgreConnection.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IPostgreConnection.cs",
@@ -344,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 23,
               "Title": "OrderServiceController.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\OrderServiceController.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\OrderServiceController.cs",
@@ -356,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Program.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Program.cs",
@@ -368,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "OrderService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Services\\OrderService.cs",
@@ -380,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.json",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.json",
@@ -392,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 26,
               "Title": "AppSettingsHelper.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helper\\AppSettingsHelper.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helper\\AppSettingsHelper.cs",
@@ -404,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "PostgreConnection.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\PostgreConnection.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\PostgreConnection.cs",
@@ -416,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Repository.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\Repository.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\Repository.cs",
@@ -428,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
@@ -440,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "ProductService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Services\\ProductService.cs",
@@ -452,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "IProductService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IProductService.cs",
@@ -464,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
@@ -476,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 27,
               "Title": "PostgreSettings.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\PostgreSettings.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\PostgreSettings.cs",
@@ -488,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 28,
               "Title": "MongoDBSettings.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\MongoDBSettings.cs",
@@ -500,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helpers\\AppSettings.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helpers\\AppSettings.cs",
@@ -512,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\ProductRepository.cs",
@@ -524,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "TokenService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\TokenService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\TokenService.cs",
@@ -536,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 29,
               "Title": "RabbitMQSettings.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\RabbitMQSettings.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\RabbitMQSettings.cs",
@@ -548,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 30,
               "Title": "Opuspac.TechnicalTest.Portal.Server.http",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Opuspac.TechnicalTest.Portal.Server.http",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Opuspac.TechnicalTest.Portal.Server.http",
@@ -560,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 31,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.Development.json",
@@ -572,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "AuthUserDTO.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\AuthUserDTO.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\AuthUserDTO.cs",
@@ -584,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 32,
               "Title": "UserValidator.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\UserValidator.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\UserValidator.cs",
@@ -596,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "DeleteUserDTO.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\DeleteUserDTO.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\DeleteUserDTO.cs",
@@ -608,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "CreateOrderServiceDTO.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs",
@@ -619,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 33,
               "Title": "EmailValidator.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\EmailValidator.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\EmailValidator.cs",
@@ -631,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "OpuspacDatabaseContext.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\OpuspacDatabaseContext.cs",
               "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\OpuspacDatabaseContext.cs",

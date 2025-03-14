@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opuspac.TechnicalTest.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea2f98422461d7c937d478dca0bed034409be0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ad55e963c158c9ff5261504f131d16afce2b14e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opuspac.TechnicalTest.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opuspac.TechnicalTest.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
