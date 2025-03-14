@@ -1,0 +1,6 @@
+@Opuspac.TechnicalTest.Portal.Server_HostAddress = http://localhost:5296
+
+GET {{Opuspac.TechnicalTest.Portal.Server_HostAddress}}/opuspac/
+Accept: application/json
+
+###

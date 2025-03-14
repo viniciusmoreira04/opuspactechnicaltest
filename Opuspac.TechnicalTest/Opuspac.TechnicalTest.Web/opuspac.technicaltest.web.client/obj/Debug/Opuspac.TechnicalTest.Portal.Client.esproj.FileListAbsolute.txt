@@ -1,0 +1,1 @@
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest.Portal\Opuspac.TechnicalTest.Web\opuspac.technicaltest.web.client\obj\Debug\Opuspac.TechnicalTest.Portal.Client.esproj.CoreCompileInputs.cache

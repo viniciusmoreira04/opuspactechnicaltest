@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4I6d4b9Fij0=",
+  "success": true,
+  "projectFilePath": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Domain\\Opuspac.TechnicalTest.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\mongodb.bson\\3.2.1\\mongodb.bson.3.2.1.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

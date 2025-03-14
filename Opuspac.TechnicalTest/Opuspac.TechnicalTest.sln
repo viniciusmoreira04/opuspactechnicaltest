@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opuspac.TechnicalTest.API", "Opuspac.TechnicalTest.API\Opuspac.TechnicalTest.API.csproj", "{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opuspac.TechnicalTest.Domain", "Opuspac.TechnicalTest.Domain\Opuspac.TechnicalTest.Domain.csproj", "{AF2BD520-A5A7-4B08-9412-10801EEF180E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opuspac.TechnicalTest.Application", "Opuspac.TechnicalTest.Application\Opuspac.TechnicalTest.Application.csproj", "{396125FF-558F-4CD9-A8C9-FB09ECA428E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opuspac.TechnicalTest.Infrastructure", "Opuspac.TechnicalTest.Infrastructure\Opuspac.TechnicalTest.Infrastructure.csproj", "{9EE3E402-CD45-47CF-BE08-7E8D391B8770}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Opuspac.TechnicalTest.Web", "Opuspac.TechnicalTest.Web\opuspac.technicaltest.web.client\Opuspac.TechnicalTest.Web.esproj", "{CD799339-73B7-9025-4151-33D59B37FE45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2BD520-A5A7-4B08-9412-10801EEF180E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2BD520-A5A7-4B08-9412-10801EEF180E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2BD520-A5A7-4B08-9412-10801EEF180E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2BD520-A5A7-4B08-9412-10801EEF180E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396125FF-558F-4CD9-A8C9-FB09ECA428E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396125FF-558F-4CD9-A8C9-FB09ECA428E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396125FF-558F-4CD9-A8C9-FB09ECA428E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396125FF-558F-4CD9-A8C9-FB09ECA428E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE3E402-CD45-47CF-BE08-7E8D391B8770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE3E402-CD45-47CF-BE08-7E8D391B8770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE3E402-CD45-47CF-BE08-7E8D391B8770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE3E402-CD45-47CF-BE08-7E8D391B8770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD799339-73B7-9025-4151-33D59B37FE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD799339-73B7-9025-4151-33D59B37FE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD799339-73B7-9025-4151-33D59B37FE45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CD799339-73B7-9025-4151-33D59B37FE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD799339-73B7-9025-4151-33D59B37FE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD799339-73B7-9025-4151-33D59B37FE45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {719C5E1B-9FA5-499B-9D94-AF5FA43652BF}
+	EndGlobalSection
+EndGlobal

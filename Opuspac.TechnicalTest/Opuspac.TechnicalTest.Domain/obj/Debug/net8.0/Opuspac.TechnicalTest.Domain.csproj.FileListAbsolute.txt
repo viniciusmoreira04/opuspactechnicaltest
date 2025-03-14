@@ -1,0 +1,13 @@
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\bin\Debug\net8.0\Opuspac.TechnicalTest.Domain.deps.json
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\bin\Debug\net8.0\Opuspac.TechnicalTest.Domain.dll
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\bin\Debug\net8.0\Opuspac.TechnicalTest.Domain.pdb
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.csproj.AssemblyReference.cache
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.AssemblyInfoInputs.cache
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.AssemblyInfo.cs
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.csproj.CoreCompileInputs.cache
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.sourcelink.json
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.dll
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\refint\Opuspac.TechnicalTest.Domain.dll
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\Opuspac.TechnicalTest.Domain.pdb
+G:\repos\opuspactechnicaltest\Opuspac.TechnicalTest\Opuspac.TechnicalTest.Domain\obj\Debug\net8.0\ref\Opuspac.TechnicalTest.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Opuspac.TechnicalTest.Portal.Server.props" />
+</Project>

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51601",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.Server\\..\\opuspac.technicaltest.web.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

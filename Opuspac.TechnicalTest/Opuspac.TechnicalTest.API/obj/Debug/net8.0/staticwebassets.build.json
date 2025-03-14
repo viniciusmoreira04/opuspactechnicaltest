@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tr+8fYrMyUOC3hbbtWM/5Iq0STo0DuBCctfzP7FGoRM=",
+  "Source": "Opuspac.TechnicalTest.API",
+  "BasePath": "_content/Opuspac.TechnicalTest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
