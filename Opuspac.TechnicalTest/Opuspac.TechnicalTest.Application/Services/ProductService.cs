@@ -1,19 +1,18 @@
-﻿using Opuspac.TechnicalTest.Application.DTOs;
-using Opuspac.TechnicalTest.Application.Interfaces;
+﻿using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Domain;
 
 namespace Opuspac.TechnicalTest.Application.Services
 {
     public class ProductService : IProductService
     {
-        private readonly IPostgreConnection<Product> _postgreConnection;
+        private readonly IProductRepository _productRepository;
 
-        public ProductService(IPostgreConnection<Product> postgreConnection)
+        public ProductService(IProductRepository productRepositor)
         {
-            _postgreConnection = postgreConnection;
+            _productRepository = productRepositor;
         }
 
-        public async Task<ProductDTO> CreateProductAsync(string name, string description, decimal price)
+        public async Task<Product> CreateProductAsync(string name, string description, decimal price)
         {
             Product product = new()
             {
@@ -23,9 +22,9 @@ namespace Opuspac.TechnicalTest.Application.Services
                 CreatedAt = DateTime.Now
             };
 
-            await _postgreConnection.InsertAsync(product);
+            await _productRepository.InsertAsync(product);
 
-            return new ProductDTO()
+            return new Product()
             {
                 Name = product.Name,
                 Price = product.Price,
@@ -35,7 +34,7 @@ namespace Opuspac.TechnicalTest.Application.Services
 
         public async Task<List<Product>> GetAllProductsAsync()
         {
-            var allProducts = await _postgreConnection.GetAllAsync();
+            var allProducts = await _productRepository.GetAllAsync();
 
             return allProducts.Select(p => new Product
             {

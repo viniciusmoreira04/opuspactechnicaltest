@@ -2,7 +2,7 @@
 {
     public class OrderService : BaseEntity
     {
-        public long UserId { get; set; }
-        public long ProductId { get; set; }
+        public string UserName { get; set; }
+        public string ProductDescription { get; set; }
     }
 }

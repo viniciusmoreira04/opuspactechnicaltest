@@ -16,7 +16,7 @@ namespace Opuspac.TechnicalTest.Infrastructure
 
             var claims = new[]
             {
-                new Claim(JwtRegisteredClaimNames.UniqueName, userDTO.Email),
+                new Claim(JwtRegisteredClaimNames.Name, userDTO.Email),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
             };
 
@@ -33,7 +33,36 @@ namespace Opuspac.TechnicalTest.Infrastructure
 
         public UserDTO ValidateToken(string token)
         {
-            throw new NotImplementedException();
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var key = Encoding.UTF8.GetBytes("ViniciusMoreiraTesteTecnicoOpuspac");
+
+            var validationParameters = new TokenValidationParameters
+            {
+                ValidateIssuerSigningKey = true,
+                IssuerSigningKey = new SymmetricSecurityKey(key),
+                ValidateIssuer = true,
+                ValidIssuer = "opuspac",
+                ValidateAudience = true,
+                ValidAudience = "opuspac_portal",
+                ValidateLifetime = true,
+                ClockSkew = TimeSpan.Zero
+            };
+
+            try
+            {
+                var principal = tokenHandler.ValidateToken(token, validationParameters, out SecurityToken validatedToken);
+                var email = principal.FindFirst(JwtRegisteredClaimNames.Name)?.Value;
+
+                if (string.IsNullOrEmpty(email))
+                    throw new Exception("Token inválido");
+
+                return new UserDTO { Email = email };
+            }
+            catch (Exception)
+            {
+                throw new Exception("Token inválido");
+            }
         }
+
     }
 }

@@ -1,6 +1,3 @@
-using Microsoft.Extensions.Configuration;
-using System;
-
 public static class AppSettingsHelper
 {
     private static IConfigurationRoot _configuration;

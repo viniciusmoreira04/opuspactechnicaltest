@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Opuspac.TechnicalTest.API.props" />
-</Project>

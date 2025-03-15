@@ -1,20 +1,21 @@
-﻿using MongoDB.Driver;
+﻿using Dapper;
+using Npgsql;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Domain;
 
 namespace Opuspac.TechnicalTest.Infrastructure
 {
-    public class ProductRepository : Repository<Product>, IProductRepository
+    public class ProductRepository : PostgreRepository<Product>, IProductRepository
     {
-        public ProductRepository(IMongoDatabase context) : base(context)
+        public ProductRepository(NpgsqlConnection context) : base(context)
         {
         }
 
-        public async Task<Product?> GetProductByDescription(string Description)
+        public async Task<Product?> GetProductByDescription(string description)
         {
-            var get = await Collection.FindAsync(x => x.Description == Description);
-
-            return await get.FirstOrDefaultAsync();
+            string tableName = typeof(Product).Name.ToLower();
+            string query = $"SELECT * FROM {tableName} WHERE Description = @Description";
+            return await Connection.QueryFirstOrDefaultAsync<Product>(query, new { Description = description });
         }
     }
 }

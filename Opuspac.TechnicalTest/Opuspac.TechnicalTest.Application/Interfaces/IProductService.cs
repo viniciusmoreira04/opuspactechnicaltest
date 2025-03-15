@@ -1,11 +1,10 @@
-﻿using Opuspac.TechnicalTest.Application.DTOs;
-using Opuspac.TechnicalTest.Domain;
+﻿using Opuspac.TechnicalTest.Domain;
 
 namespace Opuspac.TechnicalTest.Application.Interfaces;
 
-public interface IProductService 
+public interface IProductService
 {
-    Task<ProductDTO> CreateProductAsync(string name, string description,  decimal price);
+    Task<Product> CreateProductAsync(string name, string description, decimal price);
 
     Task<List<Product>> GetAllProductsAsync();
 }

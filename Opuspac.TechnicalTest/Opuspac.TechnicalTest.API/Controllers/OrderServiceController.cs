@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using Opuspac.TechnicalTest.API.Attributes;
 using Opuspac.TechnicalTest.Application.DTOs;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Application.Services;
@@ -7,12 +8,12 @@ using Opuspac.TechnicalTest.Domain;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;
-using System.Threading.Channels;
 
 namespace Opuspac.TechnicalTest.Portal.Server.Controllers;
 
-[Route("/api/orderservices")]
+[Route("api/orderservices")]
 [ApiController]
+[Authorize]
 public class OrderServiceController : ControllerBase
 {
     private readonly ILogger<OrderServiceController> _logger;
@@ -25,13 +26,21 @@ public class OrderServiceController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<Domain.OrderService> CreateOrderService()
+    public async Task<OrderServiceDTO> CreateOrderService()
     {
         OrderServiceDTO orderServiceRabbitMQ = await ConsumerRabbitMQ();
 
-        Domain.OrderService result = await _orderService.CreateOrderServiceAsync(orderServiceRabbitMQ);
+        OrderServiceDTO result = await _orderService.CreateOrderServiceAsync(orderServiceRabbitMQ);
 
         return result;
+    }
+
+    [HttpGet]
+    public async Task<ActionResult<List<Domain.OrderService>>> GetOrderServices()
+    {
+        List<Domain.OrderService> result = await _orderService.GetAllOrderServicesAsync();
+
+        return result ?? new List<Domain.OrderService>();
     }
 
     public static async Task<OrderServiceDTO> ConsumerRabbitMQ()
@@ -50,7 +59,7 @@ public class OrderServiceController : ControllerBase
         using (var connection = await factory.CreateConnectionAsync())
         using (var channel = await connection.CreateChannelAsync())
         {
-            await channel.QueueDeclareAsync(queue: "minhaFila",
+            await channel.QueueDeclareAsync(queue: "opuspac_queue",
                                  durable: true,
                                  exclusive: false,
                                  autoDelete: false,
@@ -67,7 +76,7 @@ public class OrderServiceController : ControllerBase
             };
 
             await channel.BasicConsumeAsync(queue: AppSettingsHelper.GetRabbitMQQueueName(),
-                                 autoAck: false,
+                                 autoAck: true,
                                  consumer: consumer);
         }
 

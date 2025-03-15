@@ -3,124 +3,171 @@
   "WorkspaceRootPath": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|G:\\repos\\opuspactechnicaltest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\ipostgreconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\ipostgreconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\orderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\orderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\postgreconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\postgreconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\controllers\\orderservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\controllers\\orderservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\postgrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\postgrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2BD520-A5A7-4B08-9412-10801EEF180E}|Opuspac.TechnicalTest.Domain\\Opuspac.TechnicalTest.Domain.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.domain\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2BD520-A5A7-4B08-9412-10801EEF180E}|Opuspac.TechnicalTest.Domain\\Opuspac.TechnicalTest.Domain.csproj|solutionrelative:opuspac.technicaltest.domain\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\dtos\\orderservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\dtos\\orderservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF2BD520-A5A7-4B08-9412-10801EEF180E}|Opuspac.TechnicalTest.Domain\\Opuspac.TechnicalTest.Domain.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF2BD520-A5A7-4B08-9412-10801EEF180E}|Opuspac.TechnicalTest.Domain\\Opuspac.TechnicalTest.Domain.csproj|solutionrelative:opuspac.technicaltest.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helpers\\AppSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\components\\dashboardpage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\components\\dashboardpage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\components\\loginpage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\components\\loginpage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\components\\productspage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\components\\productspage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\database\\postgresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\database\\postgresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\dtos\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\dtos\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\dtos\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\dtos\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\OpuspacDatabaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\services\\counterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\services\\counterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\orderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\orderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.infrastructure\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE3E402-CD45-47CF-BE08-7E8D391B8770}|Opuspac.TechnicalTest.Infrastructure\\Opuspac.TechnicalTest.Infrastructure.csproj|solutionrelative:opuspac.technicaltest.infrastructure\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\iorderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\iorderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\OrderServiceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396125FF-558F-4CD9-A8C9-FB09ECA428E9}|Opuspac.TechnicalTest.Application\\Opuspac.TechnicalTest.Application.csproj|solutionrelative:opuspac.technicaltest.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\database\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\database\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helper\\AppSettingsHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\PostgreSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\components\\orderspage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\components\\orderspage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\MongoDBSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\RabbitMQSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Opuspac.TechnicalTest.Portal.Server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\UserValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.web\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{023421D6-B4F1-83FC-82B4-EF9A6F1DC3FE}|Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj|solutionrelative:opuspac.technicaltest.web\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\EmailValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|g:\\repos\\opuspactechnicaltest\\opuspac.technicaltest\\opuspac.technicaltest.api\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA5B6F1-70BB-4FE6-8625-A3F267A9D1D1}|Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj|solutionrelative:opuspac.technicaltest.api\\validators\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,8 +177,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:56:32.276Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsPage.vue",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\ProductsPage.vue",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\components\\ProductsPage.vue",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\ProductsPage.vue",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\components\\ProductsPage.vue",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-14T21:34:22.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.vue",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\LoginPage.vue",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\components\\LoginPage.vue",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\LoginPage.vue",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\components\\LoginPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-14T17:53:42.873Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -140,412 +226,470 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": ".gitignore",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\.gitignore",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\.gitignore",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\.gitignore",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\.gitignore",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-14T17:33:52.554Z",
+              "WhenOpened": "2025-03-15T01:01:13.314Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\UserDTO.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:43:54.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "Opuspac.TechnicalTest.Portal.Server\\Controllers",
-              "WhenOpened": "2025-03-12T17:58:20.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\ProductController.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwCsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:42:00.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderServiceRepository.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T05:34:02.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "Opuspac.TechnicalTest.Application\\Interfaces",
-              "WhenOpened": "2025-03-13T00:12:50.622Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Services\\UserService.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswB0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:22:25.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Domain\\Product.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Domain\\Product.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Domain\\Product.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Domain\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:22:49.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPostgreConnection.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IPostgreConnection.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IPostgreConnection.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IPostgreConnection.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IPostgreConnection.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAewAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:55:58.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "OrderServiceController.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\OrderServiceController.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\OrderServiceController.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\OrderServiceController.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Controllers\\OrderServiceController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Controllers\\OrderServiceController.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Controllers\\OrderServiceController.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Controllers\\OrderServiceController.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Controllers\\OrderServiceController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvysAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:39:12.259Z"
+              "WhenOpened": "2025-03-14T17:53:08.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Program.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Program.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:59:50.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "OrderService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Services\\OrderService.cs",
               "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\OrderService.cs",
               "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAawBoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:49:43.622Z"
+              "WhenOpened": "2025-03-14T20:23:48.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.json",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.json",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-12T19:22:40.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AppSettingsHelper.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helper\\AppSettingsHelper.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helper\\AppSettingsHelper.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helper\\AppSettingsHelper.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helper\\AppSettingsHelper.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:00:56.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostgreConnection.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\PostgreConnection.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\PostgreConnection.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\PostgreConnection.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\PostgreConnection.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAYwDAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:54:55.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\Repository.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\Repository.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\Repository.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\Repository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvyEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:30:47.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:00:18.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Services\\ProductService.cs",
               "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\ProductService.cs",
               "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:05:01.714Z"
+              "WhenOpened": "2025-03-14T21:47:57.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:39:12.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostgreRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\PostgreRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\PostgreRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\PostgreRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\PostgreRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:41:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Domain\\OrderService.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Domain\\OrderService.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Domain\\OrderService.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Domain\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:26:57.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Attributes\\AuthorizeAttribute.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Attributes\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:16:22.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:01:51.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IProductService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IProductService.cs",
               "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IProductService.cs",
               "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:43:00.418Z"
+              "WhenOpened": "2025-03-14T21:48:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderServiceDTO.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\OrderServiceDTO.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\OrderServiceDTO.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\OrderServiceDTO.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\DTOs\\OrderServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:27:45.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\UserRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\UserRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:07:07.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:39:18.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAALAAAAAAAAAA==",
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\CreateProductDTO.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\CreateProductDTO.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\DTOs\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:43:24.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PostgreSettings.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\PostgreSettings.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\PostgreSettings.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\PostgreSettings.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\PostgreSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:01:56.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MongoDBSettings.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\MongoDBSettings.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\MongoDBSettings.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\MongoDBSettings.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\MongoDBSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:35:59.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helpers\\AppSettings.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helpers\\AppSettings.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helpers\\AppSettings.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Helpers\\AppSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:58:06.094Z"
+              "WhenOpened": "2025-03-14T23:14:54.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "DashboardPage.vue",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\DashboardPage.vue",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\components\\DashboardPage.vue",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\DashboardPage.vue",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\components\\DashboardPage.vue",
+              "ViewState": "AgIAADMAAAAAAAAAAAAhwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-14T19:53:26.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\ProductRepository.cs",
               "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\ProductRepository.cs",
               "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:48:08.14Z"
+              "WhenOpened": "2025-03-14T22:53:26.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Program.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Program.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Program.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:50:30.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "main.js",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\main.js",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\main.js",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\main.js",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-14T18:27:14.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:01:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "TokenService.cs",
               "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\TokenService.cs",
               "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\TokenService.cs",
               "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\TokenService.cs",
               "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywDoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:52:26.95Z"
+              "WhenOpened": "2025-03-14T23:09:45.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Controllers\\UsersController.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:54:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\appsettings.json",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\appsettings.json",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T23:50:50.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PostgreSettings.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Database\\PostgreSettings.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Database\\PostgreSettings.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Database\\PostgreSettings.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Database\\PostgreSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:59:29.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CounterService.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\CounterService.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Services\\CounterService.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Services\\CounterService.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Services\\CounterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:23:42.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "RabbitMQSettings.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\RabbitMQSettings.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\RabbitMQSettings.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\RabbitMQSettings.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\RabbitMQSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "IOrderServiceRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IOrderServiceRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IOrderServiceRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IOrderServiceRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IOrderServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T20:57:31.927Z"
+              "WhenOpened": "2025-03-14T23:01:10.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\MongoRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\MongoRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\MongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:39:21.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderServiceRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Infrastructure\\OrderServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:43:28.662Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Opuspac.TechnicalTest.Portal.Server.http",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Opuspac.TechnicalTest.Portal.Server.http",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Opuspac.TechnicalTest.Portal.Server.http",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Opuspac.TechnicalTest.Portal.Server.http",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Opuspac.TechnicalTest.Portal.Server.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-13T05:15:31.055Z"
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:41:03.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.Development.json",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.Development.json",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T04:18:08.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthUserDTO.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\AuthUserDTO.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\AuthUserDTO.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\AuthUserDTO.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\DTOs\\AuthUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Database\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Database\\MongoDBSettings.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Database\\MongoDBSettings.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Database\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:58:30.142Z"
+              "WhenOpened": "2025-03-14T22:49:33.2Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "UserValidator.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\UserValidator.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\UserValidator.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\UserValidator.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\UserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:34:12.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DeleteUserDTO.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\DeleteUserDTO.cs",
-              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Application\\DTOs\\DeleteUserDTO.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Application\\DTOs\\DeleteUserDTO.cs",
-              "RelativeToolTip": "Opuspac.TechnicalTest.Application\\DTOs\\DeleteUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:58:29.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateOrderServiceDTO.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Application\\DTOs\\CreateOrderServiceDTO.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:52:17.337Z"
+              "Title": "api.js",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\services\\api.js",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\services\\api.js",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-14T18:39:10.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "EmailValidator.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\EmailValidator.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\EmailValidator.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\EmailValidator.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Validators\\EmailValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:58:09.154Z"
+              "Title": "index.js",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\router\\index.js",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\router\\index.js",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\router\\index.js",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\router\\index.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-14T18:39:50.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OpuspacDatabaseContext.cs",
-              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\OpuspacDatabaseContext.cs",
-              "RelativeDocumentMoniker": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\OpuspacDatabaseContext.cs",
-              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\OpuspacDatabaseContext.cs",
-              "RelativeToolTip": "..\\Opuspac.TechnicalTest.Portal\\Opuspac.TechnicalTest.Portal.Server\\Database\\OpuspacDatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 34,
+              "Title": "OrdersPage.vue",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\OrdersPage.vue",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\components\\OrdersPage.vue",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\components\\OrdersPage.vue",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\components\\OrdersPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-14T21:10:01.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.vue",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\App.vue",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\src\\App.vue",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\src\\App.vue",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-14T18:00:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "package.json",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\package.json",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\package.json",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\package.json",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T20:56:52.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "jsconfig.json",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\jsconfig.json",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\jsconfig.json",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\jsconfig.json",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\jsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T20:58:35.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\vite.config.js",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\vite.config.js",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\vite.config.js",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\vite.config.js",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-14T20:13:31.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\eslint.config.js",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.Web\\eslint.config.js",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.Web\\eslint.config.js",
+              "RelativeToolTip": "Opuspac.TechnicalTest.Web\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-14T20:13:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Validators\\UserValidator.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:58:07.55Z"
+              "WhenOpened": "2025-03-14T17:53:01.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Validators\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "Opuspac.TechnicalTest.API\\Validators\\EmailValidator.cs",
+              "ToolTip": "G:\\repos\\opuspactechnicaltest\\Opuspac.TechnicalTest\\Opuspac.TechnicalTest.API\\Validators\\EmailValidator.cs",
+              "RelativeToolTip": "Opuspac.TechnicalTest.API\\Validators\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:52:59.999Z"
             }
           ]
         }

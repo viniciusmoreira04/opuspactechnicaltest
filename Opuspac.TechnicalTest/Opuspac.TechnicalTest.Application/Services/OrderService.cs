@@ -7,36 +7,44 @@ namespace Opuspac.TechnicalTest.Application.Services
     public class OrderService : IOrderService
     {
         private readonly IOrderServiceRepository _orderServiceRepository;
-        private readonly IPostgreConnection<Domain.OrderService> _postgreConnection;
+        private readonly IProductRepository _productRepository;
         private readonly IUserRepository _userRepository;
 
-        public OrderService(IOrderServiceRepository orderServiceRepository, IPostgreConnection<Domain.OrderService> postgreConnection, IUserRepository userRepository)
+        public OrderService(IOrderServiceRepository orderServiceRepository, IUserRepository userRepository, IProductRepository productRepository)
         {
             _orderServiceRepository = orderServiceRepository;
-            _postgreConnection = postgreConnection;
             _userRepository = userRepository;
+            _productRepository = productRepository;
         }
 
-        public async Task<Domain.OrderService> CreateOrderServiceAsync(OrderServiceDTO orderServiceDTO)
+        public async Task<OrderServiceDTO> CreateOrderServiceAsync(OrderServiceDTO orderServiceDTO)
         {
-            User user = await _userRepository.GetUserByEmailAsync(orderServiceDTO.User.Email);
-            Product product = await _postgreConnection.GetProductAsync(orderServiceDTO.Product.Description);
+            User user = await _userRepository.GetUserByUserNameAsync(orderServiceDTO.UserName);
+            Product product = await _productRepository.GetProductByDescription(orderServiceDTO.ProductDescription);
 
             Domain.OrderService orderService = new()
             {
-                UserId = user.Id,
-                ProductId = product.Id,
+                UserName = user.Name,
+                ProductDescription = product.Description,
                 CreatedAt = DateTime.Now
             };
 
-            await _postgreConnection.InsertAsync(orderService);
+            await _orderServiceRepository.InsertAsync(orderService);
 
-            return orderService;
+            return orderServiceDTO;
         }
 
-        public Task<List<OrderServiceDTO>> GetAllOrderServicesAsync()
+        public async Task<List<Domain.OrderService>> GetAllOrderServicesAsync()
         {
-            throw new NotImplementedException();
+            var allOrders = await _orderServiceRepository.GetAllAsync();
+
+            return allOrders.Select(p => new Domain.OrderService
+            {
+                Id = p.Id,
+                ProductDescription = p.ProductDescription,
+                UserName = p.UserName,
+                CreatedAt = p.CreatedAt
+            }).ToList();
         }
     }
 }

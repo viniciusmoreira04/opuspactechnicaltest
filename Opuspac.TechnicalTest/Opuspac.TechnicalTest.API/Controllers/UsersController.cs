@@ -19,7 +19,7 @@ public class UsersController : ControllerBase
         _tokenService = tokenService;
     }
 
-    [HttpPost("/register")]
+    [HttpPost("register")]
     public async Task<IActionResult> CreateUser(CreateUserDTO userDTO)
     {
         UserDTO result = await _userService.CreateUserAsync(userDTO.Name, userDTO.Email, userDTO.Password);
@@ -27,7 +27,7 @@ public class UsersController : ControllerBase
         return Ok(result);
     }
 
-    [HttpPost("/login")]
+    [HttpPost("login")]
     public async Task<IActionResult> LoginUser(AuthUserDTO authUserDTO)
     {
         UserDTO user = await _userService.AuthUserAsync(authUserDTO.Email, authUserDTO.Password);

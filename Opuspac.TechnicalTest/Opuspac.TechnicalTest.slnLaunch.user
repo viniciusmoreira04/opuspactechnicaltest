@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "Opuspac.TechnicalTest.API\\Opuspac.TechnicalTest.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Opuspac.TechnicalTest.Web\\Opuspac.TechnicalTest.Web.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using Opuspac.TechnicalTest.API.Attributes;
 using Opuspac.TechnicalTest.Application.DTOs;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Domain;
@@ -10,30 +11,39 @@ namespace Opuspac.TechnicalTest.Portal.Server.Controllers;
 
 [Route("api/products")]
 [ApiController]
+[Authorize]
 public class ProductController : ControllerBase
 {
     private readonly ILogger<ProductController> _logger;
     private readonly IProductService _productService;
+    private readonly IUserRepository _userRepository;
 
-    public ProductController(ILogger<ProductController> logger, IProductService productService)
+    public ProductController(ILogger<ProductController> logger, IProductService productService, IUserRepository userRepository)
     {
         _logger = logger;
         _productService = productService;
+        _userRepository = userRepository;
     }
 
     [HttpPost]
-    public async Task<ProductDTO> CreateProduct(CreateProductDTO createProductDTO)
+    public async Task<Product> CreateProduct(CreateProductDTO createProductDTO)
     {
-        ProductDTO result = await _productService.CreateProductAsync(createProductDTO.Name, createProductDTO.Description, createProductDTO.Price);
+        if (!HttpContext.Items.TryGetValue("User", out object userObject) || userObject is not UserDTO userDTO)
+            throw new Exception("Usuário não autenticado");
 
-        var orderServiceDTO = new OrderServiceDTO
+        User user = await _userRepository.GetUserByEmailAsync(userDTO.Email) ??
+            throw new Exception("Usuário não encontrado");
+
+        Product result = await _productService.CreateProductAsync(createProductDTO.Name, createProductDTO.Description, createProductDTO.Price);
+
+        var orderService = new OrderService
         {
-            User = createProductDTO.User,
-            Product = result,
-            Date = DateTime.Now
+            UserName = user.Name,
+            ProductDescription = result.Description,
+            CreatedAt = DateTime.Now
         };
 
-        PublishRabbitMQ(orderServiceDTO);
+        PublishRabbitMQ(orderService);
 
         return result;
     }
@@ -46,34 +56,34 @@ public class ProductController : ControllerBase
         return result ?? new List<Product>();
     }
 
-    public static async void PublishRabbitMQ(OrderServiceDTO orderSeviceDTO)
+    public static async void PublishRabbitMQ(OrderService orderSevice)
     {
         var factory = new ConnectionFactory()
         {
-            HostName = AppSettingsHelper.GetRabbitMQHostName(), 
+            HostName = AppSettingsHelper.GetRabbitMQHostName(),
             Port = AppSettingsHelper.GetRabbitMQPort(),
             UserName = AppSettingsHelper.GetRabbitMQUserName(),
             Password = AppSettingsHelper.GetRabbitMQPassword(),
-            VirtualHost = "/" 
+            VirtualHost = "/"
         };
 
         using (var connection = await factory.CreateConnectionAsync())
         using (var channel = await connection.CreateChannelAsync())
         {
-                await channel.QueueDeclareAsync(queue: "minhaFila",
-                                     durable: true,
-                                     exclusive: false,
-                                     autoDelete: false,
-                                     arguments: null);
+            await channel.QueueDeclareAsync(queue: "minhaFila",
+                                 durable: true,
+                                 exclusive: false,
+                                 autoDelete: false,
+                                 arguments: null);
 
-                string message = JsonConvert.SerializeObject(orderSeviceDTO);
-                var body = Encoding.UTF8.GetBytes(message);
+            string message = JsonConvert.SerializeObject(orderSevice);
+            var body = Encoding.UTF8.GetBytes(message);
 
-                await channel.BasicPublishAsync(
-                exchange: AppSettingsHelper.GetRabbitMQExchange(),
-                routingKey: AppSettingsHelper.GetRabbitMQRoutingKey(),
-                body: new ReadOnlyMemory<byte>(body)
-            );
+            await channel.BasicPublishAsync(
+            exchange: AppSettingsHelper.GetRabbitMQExchange(),
+            routingKey: AppSettingsHelper.GetRabbitMQRoutingKey(),
+            body: new ReadOnlyMemory<byte>(body)
+        );
         }
     }
 }

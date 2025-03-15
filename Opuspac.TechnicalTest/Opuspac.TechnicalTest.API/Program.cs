@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using Npgsql;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Application.Services;
-using Opuspac.TechnicalTest.Domain;
 using Opuspac.TechnicalTest.Infrastructure;
 using Opuspac.TechnicalTest.Portal.Server.Database;
 
@@ -14,18 +14,19 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDBSettings"));
 builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQSettings"));
+builder.Services.Configure<PostgreSettings>(builder.Configuration.GetSection("PostgreSettings"));
 
-builder.Services.AddSingleton(typeof (IPasswordHasher<>), typeof(PasswordHasher<>));
+builder.Services.AddSingleton(typeof(IPasswordHasher<>), typeof(PasswordHasher<>));
 builder.Services.AddSingleton<ITokenService, TokenService>();
 
-builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped(typeof(MongoRepository<>));
+builder.Services.AddScoped(typeof(PostgreRepository<>));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IOrderServiceRepository, OrderServiceRepository>();
 builder.Services.AddScoped<IOrderService, Opuspac.TechnicalTest.Application.Services.OrderService>();
-builder.Services.AddScoped(typeof(IPostgreConnection<>), typeof(PostgreConnection<>));
 builder.Services.AddScoped<CounterService>();
 
 builder.Services.AddSingleton<IMongoClient>(serviceProvider =>
@@ -41,6 +42,23 @@ builder.Services.AddSingleton<IMongoDatabase>(serviceProvider =>
     return client.GetDatabase(settings.DatabaseName);
 });
 
+builder.Services.AddTransient<NpgsqlConnection>(serviceProvider =>
+{
+    var settings = serviceProvider.GetRequiredService<IOptions<PostgreSettings>>().Value;
+    return new NpgsqlConnection(settings.ConnectionString);
+});
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        policy =>
+        {
+            policy.AllowAnyOrigin()
+                  .AllowAnyMethod()
+                  .AllowAnyHeader();
+        });
+});
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -50,7 +68,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseCors("AllowAll");
 app.UseAuthorization();
 
 app.MapControllers();
