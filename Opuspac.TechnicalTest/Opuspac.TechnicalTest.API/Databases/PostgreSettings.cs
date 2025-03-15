@@ -1,4 +1,4 @@
-namespace Opuspac.TechnicalTest.Portal.Server.Database;
+namespace Opuspac.TechnicalTest.API.Database;
 
 public class PostgreSettings
 {

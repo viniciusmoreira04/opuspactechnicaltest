@@ -1,6 +1,6 @@
 using Opuspac.TechnicalTest.Application.DTOs;
 
-namespace Opuspac.TechnicalTest.Portal.Server.Validators;
+namespace Opuspac.TechnicalTest.API.Validators;
 
 public static class UserValidator
 {

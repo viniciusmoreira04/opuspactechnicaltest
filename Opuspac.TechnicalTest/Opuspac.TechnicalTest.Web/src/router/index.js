@@ -2,35 +2,34 @@ import { createRouter, createWebHistory } from "vue-router";
 
 import LoginPage from "@/components/LoginPage.vue";
 import DashboardPage from "@/components/DashboardPage.vue";
-import ProductsPage from "@/components/ProductsPage.vue";
-import OrdersPage from "@/components/OrdersPage.vue";
 
 const routes = [
   {
     path: '/',
     name: 'LoginPage',
-    component: LoginPage
+    component: LoginPage,
   },
   {
     path: '/dashboard',
     name: 'DashboardPage',
-    component: DashboardPage
-  },
-  {
-    path: '/products',
-    name: 'ProductsPage',
-    component: ProductsPage
-  },
-  {
-    path: '/orders',
-    name: 'OrdersPage',
-    component: OrdersPage
-  },
-]
+    component: DashboardPage,
+    meta: { requiresAuth: true },
+  }
+];
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
-  routes
-})
+  history: createWebHistory(),
+  routes,
+});
+
+router.beforeEach((to, from, next) => {
+  const token = localStorage.getItem('token'); 
+
+  if (to.meta.requiresAuth && !token) {
+    next({ name: 'LoginPage' });
+  } else {
+    next();
+  }
+});
 
 export default router;

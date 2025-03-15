@@ -10,14 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Helpers\**" />
-    <Content Remove="Helpers\**" />
-    <EmbeddedResource Remove="Helpers\**" />
-    <None Remove="Helpers\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Remove="Database\OpuspacDatabaseContext.cs" />
+    <Compile Remove="Databases\OpuspacDatabaseContext.cs" />
   </ItemGroup>
 
   <ItemGroup>

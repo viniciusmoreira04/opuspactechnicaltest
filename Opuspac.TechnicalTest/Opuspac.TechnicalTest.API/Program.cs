@@ -2,10 +2,10 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 using Npgsql;
+using Opuspac.TechnicalTest.API.Database;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Application.Services;
 using Opuspac.TechnicalTest.Infrastructure;
-using Opuspac.TechnicalTest.Portal.Server.Database;
 
 var builder = WebApplication.CreateBuilder(args);
 

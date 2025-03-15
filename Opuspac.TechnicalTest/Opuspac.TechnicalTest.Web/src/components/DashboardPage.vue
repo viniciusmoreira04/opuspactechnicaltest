@@ -5,8 +5,8 @@
     <!-- Botões de navegação -->
     <div class="button-group">
       <button @click="toggleSection('create')" class="btn">Criar Produto</button>
-      <button @click="toggleSection('products')" class="btn">Lista de Produtos</button>
-      <button @click="toggleSection('orders')" class="btn">Lista de Ordens de Serviço</button>
+      <button @click="toggleSection('products'); fetchProducts()"  class="btn">Lista de Produtos</button>
+      <button @click="toggleSection('orders'); fetchOrders()" class="btn">Lista de Ordens de Serviço</button>
     </div>
 
     <!-- Formulário para criar novo produto -->
@@ -20,7 +20,6 @@
     
     <!-- Lista de produtos -->
     <div v-if="activeSection === 'products'" class="list-container">
-      <h2 class="text-lg font-semibold">Lista de Produtos</h2>
       <ul>
         <li v-for="product in products" :key="product.id" class="list-item">
           <strong>{{ product.name }}</strong> - {{ product.description }} (R$ {{ product.price }})
@@ -53,32 +52,37 @@ const toggleSection = (section) => {
   activeSection.value = activeSection.value === section ? '' : section;
 };
 
-const fetchProducts = async () => {
-  const response = await fetch('api/products');
-  products.value = await response.json();
-};
+  const fetchProducts = async () => {
+    try {
+      const response = await api.get('api/products');
+      products.value = response.data;
+    } catch (error) {
+      alert('Falha ao carregar produtos. Tente novamente.');
+    }
+  };
 
-const fetchOrders = async () => {
-  const response = await fetch('api/orders');
-  orders.value = await response.json();
-};
+  const fetchOrders = async () => {
+    try {
+      const response = await api.get('api/orders');
+      products.value = response.data;
+    } catch (error) {
+      alert('Falha ao carregar produtos. Tente novamente.');
+    }
+  };
 
 const createProduct = async () => {
-  // Verifica se todos os campos obrigatórios estão preenchidos antes de enviar a requisição
   if (!newProduct.value.name || !newProduct.value.description || !newProduct.value.price) {
     alert("Por favor, preencha todos os campos do produto.");
     return;
   }
 
   try {
-    // Fazendo a requisição com os dados diretamente
     await api.post('api/products', newProduct.value, {
       headers: { 'Content-Type': 'application/json' },
     });
-    fetchProducts();  // Atualiza a lista de produtos após a criação
-    newProduct.value = { name: '', description: '', price: '' };  // Limpa os campos após o envio
+    fetchProducts();
+    newProduct.value = { name: '', description: '', price: '' };  
   } catch (error) {
-    console.error("Erro ao criar produto:", error);
     alert("Ocorreu um erro ao criar o produto.");
   }
 };

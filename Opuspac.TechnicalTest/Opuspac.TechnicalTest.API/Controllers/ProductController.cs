@@ -1,13 +1,14 @@
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Opuspac.TechnicalTest.API.Attributes;
+using Opuspac.TechnicalTest.API.Services;
 using Opuspac.TechnicalTest.Application.DTOs;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Domain;
 using RabbitMQ.Client;
 using System.Text;
 
-namespace Opuspac.TechnicalTest.Portal.Server.Controllers;
+namespace Opuspac.TechnicalTest.API.Controllers;
 
 [Route("api/products")]
 [ApiController]
@@ -43,7 +44,7 @@ public class ProductController : ControllerBase
             CreatedAt = DateTime.Now
         };
 
-        PublishRabbitMQ(orderService);
+        RabbitMQServices.PublishRabbitMQ(orderService);
 
         return result;
     }
@@ -54,36 +55,5 @@ public class ProductController : ControllerBase
         List<Product> result = await _productService.GetAllProductsAsync();
 
         return result ?? new List<Product>();
-    }
-
-    public static async void PublishRabbitMQ(OrderService orderSevice)
-    {
-        var factory = new ConnectionFactory()
-        {
-            HostName = AppSettingsHelper.GetRabbitMQHostName(),
-            Port = AppSettingsHelper.GetRabbitMQPort(),
-            UserName = AppSettingsHelper.GetRabbitMQUserName(),
-            Password = AppSettingsHelper.GetRabbitMQPassword(),
-            VirtualHost = "/"
-        };
-
-        using (var connection = await factory.CreateConnectionAsync())
-        using (var channel = await connection.CreateChannelAsync())
-        {
-            await channel.QueueDeclareAsync(queue: "minhaFila",
-                                 durable: true,
-                                 exclusive: false,
-                                 autoDelete: false,
-                                 arguments: null);
-
-            string message = JsonConvert.SerializeObject(orderSevice);
-            var body = Encoding.UTF8.GetBytes(message);
-
-            await channel.BasicPublishAsync(
-            exchange: AppSettingsHelper.GetRabbitMQExchange(),
-            routingKey: AppSettingsHelper.GetRabbitMQRoutingKey(),
-            body: new ReadOnlyMemory<byte>(body)
-        );
-        }
     }
 }

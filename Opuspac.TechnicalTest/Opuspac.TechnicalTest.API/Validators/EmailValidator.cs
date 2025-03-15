@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace Opuspac.TechnicalTest.Portal.Server.Validators;
+namespace Opuspac.TechnicalTest.API.Validators;
 
 public static class EmailValidator
 {

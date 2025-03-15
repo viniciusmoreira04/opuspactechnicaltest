@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Opuspac.TechnicalTest.Application.DTOs;
 using Opuspac.TechnicalTest.Application.Interfaces;
 
-namespace Opuspac.TechnicalTest.Portal.Server.Controllers;
+namespace Opuspac.TechnicalTest.API.Controllers;
 
 [Route("api/auth")]
 [ApiController]

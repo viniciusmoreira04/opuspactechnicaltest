@@ -43,6 +43,7 @@ namespace Opuspac.TechnicalTest.Application.Services
                 Id = p.Id,
                 ProductDescription = p.ProductDescription,
                 UserName = p.UserName,
+                Price = p.Price,
                 CreatedAt = p.CreatedAt
             }).ToList();
         }
