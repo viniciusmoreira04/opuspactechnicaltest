@@ -1,12 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using Opuspac.TechnicalTest.API.Attributes;
 using Opuspac.TechnicalTest.API.Services;
 using Opuspac.TechnicalTest.Application.DTOs;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Domain;
-using RabbitMQ.Client;
-using System.Text;
 
 namespace Opuspac.TechnicalTest.API.Controllers;
 

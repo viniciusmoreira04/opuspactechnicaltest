@@ -1,5 +1,4 @@
 ﻿using MongoDB.Driver;
-using Npgsql;
 using Opuspac.TechnicalTest.Application.Interfaces;
 using Opuspac.TechnicalTest.Domain;
 

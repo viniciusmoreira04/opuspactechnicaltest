@@ -13,7 +13,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDBSettings"));
-builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQSettings"));
 builder.Services.Configure<PostgreSettings>(builder.Configuration.GetSection("PostgreSettings"));
 
 builder.Services.AddSingleton(typeof(IPasswordHasher<>), typeof(PasswordHasher<>));
