@@ -23,6 +23,9 @@ public class OrderServiceController : ControllerBase
     [HttpPost]
     public async Task<OrderServiceDTO> CreateOrderService()
     {
+        if (!HttpContext.Items.TryGetValue("User", out object userObject) || userObject is not UserDTO userDTO)
+            throw new Exception("Usuário não autenticado");
+
         OrderServiceDTO orderServiceRabbitMQ = await RabbitMQServices.ConsumerRabbitMQ();
 
         OrderServiceDTO result = await _orderService.CreateOrderServiceAsync(orderServiceRabbitMQ);
@@ -33,6 +36,9 @@ public class OrderServiceController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<List<Domain.OrderService>>> GetOrderServices()
     {
+        if (!HttpContext.Items.TryGetValue("User", out object userObject) || userObject is not UserDTO userDTO)
+            throw new Exception("Usuário não autenticado");
+
         List<Domain.OrderService> result = await _orderService.GetAllOrderServicesAsync();
 
         return result ?? new List<Domain.OrderService>();

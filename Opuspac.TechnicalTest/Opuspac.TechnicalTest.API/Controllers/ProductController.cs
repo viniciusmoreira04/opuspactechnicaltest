@@ -50,6 +50,9 @@ public class ProductController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<List<Product>>> GetProducts()
     {
+        if (!HttpContext.Items.TryGetValue("User", out object userObject) || userObject is not UserDTO userDTO)
+            throw new Exception("Usuário não autenticado");
+
         List<Product> result = await _productService.GetAllProductsAsync();
 
         return result ?? new List<Product>();
