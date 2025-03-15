@@ -26,6 +26,7 @@ namespace Opuspac.TechnicalTest.Application.Services
             {
                 UserName = user.Name,
                 ProductDescription = product.Description,
+                Price = product.Price,
                 CreatedAt = DateTime.Now
             };
 

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Opuspac.TechnicalTest.Infrastructure")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Opuspac.TechnicalTest.Domain")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd836b9a99f83549625885f5771fc84b5eaf6cad")]
-[assembly: System.Reflection.AssemblyProductAttribute("Opuspac.TechnicalTest.Infrastructure")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Opuspac.TechnicalTest.Infrastructure")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf4d5899b6e723bb4a267f7942b3aa8d01067f7")]
+[assembly: System.Reflection.AssemblyProductAttribute("Opuspac.TechnicalTest.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Opuspac.TechnicalTest.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -38,6 +38,7 @@ public class ProductController : ControllerBase
         {
             UserName = user.Name,
             ProductDescription = result.Description,
+            Price = result.Price,
             CreatedAt = DateTime.Now
         };
 

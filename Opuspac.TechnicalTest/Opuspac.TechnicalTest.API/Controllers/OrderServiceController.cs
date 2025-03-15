@@ -6,7 +6,7 @@ using Opuspac.TechnicalTest.Application.Interfaces;
 
 namespace Opuspac.TechnicalTest.API.Controllers;
 
-[Route("api/orderservices")]
+[Route("api/orders")]
 [ApiController]
 [Authorize]
 public class OrderServiceController : ControllerBase

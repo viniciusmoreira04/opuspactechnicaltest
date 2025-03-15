@@ -23,7 +23,7 @@ namespace Opuspac.TechnicalTest.API.Services
             using (var connection = await factory.CreateConnectionAsync())
             using (var channel = await connection.CreateChannelAsync())
             {
-                await channel.QueueDeclareAsync(queue: "minhaFila",
+                await channel.QueueDeclareAsync(queue: AppSettingsHelper.GetRabbitMQQueueName(),
                                      durable: true,
                                      exclusive: false,
                                      autoDelete: false,
@@ -56,7 +56,7 @@ namespace Opuspac.TechnicalTest.API.Services
             using (var connection = await factory.CreateConnectionAsync())
             using (var channel = await connection.CreateChannelAsync())
             {
-                await channel.QueueDeclareAsync(queue: "opuspac_queue",
+                await channel.QueueDeclareAsync(queue: AppSettingsHelper.GetRabbitMQQueueName(),
                                      durable: true,
                                      exclusive: false,
                                      autoDelete: false,
@@ -73,7 +73,7 @@ namespace Opuspac.TechnicalTest.API.Services
                 };
 
                 await channel.BasicConsumeAsync(queue: AppSettingsHelper.GetRabbitMQQueueName(),
-                                     autoAck: true,
+                                     autoAck: false,
                                      consumer: consumer);
             }
 
